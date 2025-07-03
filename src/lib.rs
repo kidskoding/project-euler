@@ -3,3 +3,4 @@ pub mod prob02;
 pub mod prob03;
 pub mod prob04;
 pub mod prob05;
+pub mod prob06;

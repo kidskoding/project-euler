@@ -6,4 +6,5 @@ fn main() {
     println!("prob 3: {}", prob03::prob03());
     println!("prob 4: {}", prob04::prob04());
     println!("prob 5: {}", prob05::prob05());
+    println!("prob 6: {}", prob06::prob06());
 }

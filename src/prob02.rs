@@ -12,5 +12,5 @@ pub fn prob02() -> u128 {
         b = next;
     }
 
-    return sum;
+    sum
 }

@@ -6,5 +6,5 @@ pub fn prob01() -> u32 {
         }
     }
 
-    return sum
+    sum
 }

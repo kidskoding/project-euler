@@ -5,3 +5,4 @@ pub mod prob04;
 pub mod prob05;
 pub mod prob06;
 pub mod prob07;
+pub mod prob08;

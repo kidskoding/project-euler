@@ -12,4 +12,5 @@ fn main() {
     println!("prob 9: {:?}", prob09::prob09().expect("expected a numerical signed product for pythagorean triple!"));
     println!("prob 10: {}", prob10::prob10());
     println!("prob 12: {}", prob12::prob12());
+    println!("prob 13: {}", prob13::prob13());
 }

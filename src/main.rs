@@ -19,4 +19,5 @@ fn main() {
     println!("prob 16: {}", prob16::prob16());
     println!("prob 18: {}", prob18::prob18());
     println!("prob 19: {}", prob19::prob19());
+    println!("prob 20: {}", prob20::prob20());
 }

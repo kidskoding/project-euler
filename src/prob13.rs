@@ -1,5 +1,5 @@
 use num_bigint::BigUint;
-use num_traits::{FromPrimitive, Zero};
+use num_traits::Zero;
 
 pub fn prob13() -> String {
     let num = 

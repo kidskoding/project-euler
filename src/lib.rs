@@ -17,3 +17,4 @@ pub mod prob16;
 pub mod prob18;
 pub mod prob19;
 pub mod prob20;
+pub mod prob22;

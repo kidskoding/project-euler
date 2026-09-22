@@ -19,4 +19,5 @@ pub mod prob19;
 pub mod prob20;
 pub mod prob22;
 pub mod prob25;
+pub mod prob26;
 pub mod prob28;

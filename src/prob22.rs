@@ -1,7 +1,7 @@
 use std::fs;
 
 pub fn prob22() -> u32 {
-    let file_path = "./input/names.txt";
+    let file_path = "../input/names.txt";
     let file = fs::read_to_string(file_path).unwrap();
 
     let mut names: Vec<String> = file

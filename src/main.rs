@@ -24,4 +24,9 @@ fn main() {
     println!("prob 25: {}", prob25::prob25());
     println!("prob 26: {}", prob26::prob26());
     println!("prob 28: {}", prob28::prob28());
+<<<<<<< Updated upstream
 }
+=======
+    println!("prob 30: {}", prob30::prob30());
+}
+>>>>>>> Stashed changes
